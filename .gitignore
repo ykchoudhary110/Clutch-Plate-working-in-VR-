@@ -1,0 +1,37 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Assets/AssetStoreTools*
+
+# OS generated
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Visual Studio / Rider / VSCode
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.suo
+*.pdb
+*.opendb
+
+# Builds
+*.apk
+*.aab
+*.x86
+*.app
+*.exe
+
+# Crashlytics
+crashlytics-build.properties
+
